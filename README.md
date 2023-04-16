@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working on an IoT system to be installed in restaurants with the goal of creating a modern experience for clients.<br><br>Physics major with a passion for web dev.
+🔭 I’m currently working on an IoT system to be installed in restaurants with the goal of creating a modern experience for clients.<br><br>
 
 ## 🌐 Socials:
 
