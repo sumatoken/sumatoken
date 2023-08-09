@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working on an IoT system to be installed in restaurants with the goal of creating a modern experience for clients.<br><br>
+🔭 I’m currently enrolled in a Full Stack Web Development Bootcamp to boost my career.<br><br>
 
 ## 🌐 Socials:
 
@@ -22,10 +22,5 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=sumatoken&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-
-[![](https://gtce.itsvg.in/api?username=sumatoken)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
