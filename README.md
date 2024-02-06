@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently enrolled in a Full Stack Web Development Bootcamp to boost my career.<br><br>
+🔭 I’m currently a front-end developer at VOID.fr<br><br>
 
 ## 🌐 Socials:
 
