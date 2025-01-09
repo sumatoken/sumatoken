@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently a front-end developer at VOID.fr<br><br>
+🔭 I’m currently a senior front-end developer at Cognitus.com<br><br>
 
 ## 🌐 Socials:
 
