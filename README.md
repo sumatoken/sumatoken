@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently a senior front-end developer at Cognitus.com<br><br> working with the LambdaX team to build CLM systems powered by AI.
+🔭 I’m currently a senior front-end developer at Cognitus.com working with the LambdaX team to build CLM systems powered by AI. <br><br>
 
 ## 🌐 Socials:
 
